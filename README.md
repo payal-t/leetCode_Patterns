@@ -24,7 +24,7 @@ Depth-first search
 Binary search
 Recursion
 
-Notes
-This pdf contains information for the main data structures in Java.
+Notes:
+**This pdf** contains information for the main data structures in Java.
 
 Other useful methods to know include substring(), toCharArray(), Math.max(), Math.min(), and Arrays.fill().
